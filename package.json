@@ -8,9 +8,11 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@cspell/dict-fr-fr": "^2.2.5",
     "@slidev/cli": "^51.3.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "cspell": "^8.17.5",
     "vue": "^3.5.13"
   }
 }

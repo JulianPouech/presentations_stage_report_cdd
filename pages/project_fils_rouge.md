@@ -2,5 +2,3 @@
     <h1>Rapport de stage</h1>
     <h4>Concepteur développeur d’applications</h4>
 </div>
-<div class="absolute bottom-0 right-0">
-</div>

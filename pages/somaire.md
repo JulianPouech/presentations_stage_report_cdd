@@ -1,8 +1,15 @@
 <PagesComponent/>
-<h1>Somaire</h1>
+<ReferenceComponent></ReferenceComponent>
+<h1>Sommaire</h1>
 <ul>
-    <li>introduction</li>
-    <li>Presantation du projet fait en enreprise</li>
-    <li>Presantation du projet persso</li>
-    <li>conclusion</li>
+    <li>Introduction</li>
+    <li>Présentation du projet fait en entreprise</li>
+    <li>Présentation du projet perso</li>
+    <li>Conclusion</li>
 </ul>
+
+<!--
+D'un premier temps je vais nous aurons introduction
+ensuit il aura la Présentation du projet fait en entreprise
+puis il aura le fils rouge et on finira sur la conclusion
+-->
